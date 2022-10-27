@@ -103,7 +103,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
-
+## Initialize, matrix method and Inverse
 makeCacheMatrix <- function( m = matrix() ) {
 	
     i <- NULL
@@ -136,6 +136,7 @@ makeCacheMatrix <- function( m = matrix() ) {
 
 
 ##2
+## Return the matris and calculaiton
 cacheSolve <- function(x, ...) {
 
     
